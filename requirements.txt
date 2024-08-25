@@ -1,0 +1,8 @@
+streamlit>=1.35.0
+streamlit-option-menu
+st_pages
+streamlit-nested-layout
+streamlit-extras
+streamlit-tree-select
+PyMySQL
+mysql-connector-python
